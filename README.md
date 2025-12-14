@@ -4,16 +4,14 @@ UNIFIED PROJECT WORKS ON BOTH DEVICES!
 
 ## 🎉 **Project Overview**
 
-This repository contains the **most successful XScreensaver port ever created** At least by myself - all 341 classic desktop screensaver effects now running perfectly on the M5StickC Plus2 handheld device.
+This repository contains the **most successful XScreensaver port ever created** At least by myself - all 341 classic desktop screensaver effects now running perfectly on the M5StickC Plus1 & Plus2 handheld devices.
 
 Originally developed for the ESP32-2432S028 (Cheap Yellow Display), these effects have been seamlessly migrated using an innovative **compatibility layer architecture** that preserves 100% of the original effect code.
 
 ## ⚡ **Migration Achievement**
 
 - **341/341 Effects Ported** ✅ (100% Complete)
-- **Migration Time:** 30 minutes  
 - **Effect Code Changes:** Zero lines modified
-- **Build Success:** First attempt
 - **Memory Usage:** 18.9% RAM, 57.9% Flash
 - **Performance:** 20+ FPS smooth operation
 
