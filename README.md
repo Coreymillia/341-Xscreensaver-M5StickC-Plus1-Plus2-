@@ -1,6 +1,6 @@
-# 341 XScreensaver Effects - M5StickC Plus2 Port
-
-**Complete port of 341 classic XScreensaver effects from ESP32-2432S028 (CYD) to M5StickC Plus2**
+# 341 XScreensaver Effects - M5StickC Plus1 AND Plus2 Port
+UNIFIED PROJECT WORKS ON BOTH DEVICES!
+**Complete port of 341 classic XScreensaver effects from ESP32-2432S028 (CYD) to M5StickC Plus1 & Plus2**
 
 ## 🎉 **Project Overview**
 
